@@ -1,0 +1,22 @@
+.container {
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 40px;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    padding: 15px 25px;
+    font-size: 1em;
+    margin: 25px 0 0 0;
+}
+
+.container:hover {
+    background: #DDDDDD
+}
+
+.selected {
+    background: #FFD205;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}

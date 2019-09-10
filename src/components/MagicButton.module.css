@@ -1,0 +1,15 @@
+.container {
+    background: #FFFFFF;
+    box-sizing: border-box;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    font-size: 1em;
+    border: 0;
+}
+
+.selected {
+    background: #FFD205;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}

@@ -1,0 +1,32 @@
+.container {
+    margin-top: 16px;
+    max-width: 405px;
+}
+
+.header {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    font-size: 1.1em;
+    line-height: 20px;
+    color: #000000;
+    margin-right: 8px;
+    margin-left: 4px;
+}
+
+.description {
+    font-size: 1em;
+    line-height: 20px;
+    font-weight: 300;
+}
+
+.cells {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+}

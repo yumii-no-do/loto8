@@ -1,0 +1,13 @@
+.container {
+    padding: 12px;
+    background: #ffffff;
+}
+
+.header {
+    line-height: 22px;
+    text-align: start;
+    font-size: 1.3em;
+    margin-left: 4px;
+    display: flex;
+    justify-content: space-between;
+}

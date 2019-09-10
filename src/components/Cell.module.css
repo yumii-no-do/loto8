@@ -1,0 +1,25 @@
+.container {
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+}
+
+.container:hover {
+    background: #DDDDDD
+}
+
+.selected {
+    background: #FFD205;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
+
+.selected:hover {
+    background: rgb(245, 203, 17)
+}
